@@ -1,5 +1,5 @@
 # LosWindowsCustoms
-Personalize your Windows 10 without activating system.
+Personalize your Windows 10 without activating it.
 #
 ![1](https://user-images.githubusercontent.com/103745143/163814267-38a4a260-934b-4d39-95d4-ba546eee62a5.png)
 
